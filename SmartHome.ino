@@ -9,9 +9,9 @@
 #include <IRremote.h>
 
 // WiFi & Blynk
-char auth[] = "BLYNK_AUTH_TOKEN";
-char ssid[] = "YOUR_WIFI_SSID";
-char pass[] = "YOUR_WIFI_PASSWORD";
+char auth[] = "BLYNK_AUTH_TOKEN Here";
+char ssid[] = "WIFI_SSID";
+char pass[] = "WIFI_PASSWORD";
 
 // DHT11 Sensor
 #define DHTPIN D4
